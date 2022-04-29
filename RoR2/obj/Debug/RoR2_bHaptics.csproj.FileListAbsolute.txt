@@ -1,0 +1,5 @@
+D:\bHaptics\RoR2\dev\RoR2\RoR2\obj\Debug\RoR2_bHaptics.csproj.AssemblyReference.cache
+D:\bHaptics\RoR2\dev\RoR2\RoR2\obj\Debug\RoR2_bHaptics.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\BepInEx\plugins\RoR2_bHaptics.dll
+D:\bHaptics\RoR2\dev\RoR2\RoR2\obj\Debug\RoR2_bHaptics.dll
+D:\bHaptics\RoR2\dev\RoR2\RoR2\obj\Debug\RoR2_bHaptics.csproj.CopyComplete
